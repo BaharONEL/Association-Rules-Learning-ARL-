@@ -28,7 +28,7 @@ def retail_data_prep(dataframe):
     replace_with_thresholds(dataframe, "Price")
     return dataframe
 
-df_ = pd.read_excel(r"C:\Users\Oguz\Desktop\DCMLBC06\HAFTA03\dataset\online_retail_II.xlsx" , sheet_name= "Year 2010-2011")
+df_ = pd.read_excel("online_retail_II.xlsx" , sheet_name= "Year 2010-2011")
 df = df_.copy()
 df = retail_data_prep(df)
 df.head()
