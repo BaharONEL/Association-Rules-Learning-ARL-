@@ -6,11 +6,13 @@ Products to users at the basket stage
 make a suggestion.
 
  ## Dataset Story : 
-Online Retail II : The dataset named is a UK-based online sales
+Online Retail II
+The dataset named is a UK-based online sales
 store's sales between 01/12/2009 and 09/12/2011
 contains.
-The product catalog of this company includes souvenirs.
-The vast majority of the company's customers are corporate customers. 
+The product catalog of this company includes souvenirs. promotion
+can be considered as products.
+There is also information that most of its customers are wholesalers
 
 
  ## Variables :
